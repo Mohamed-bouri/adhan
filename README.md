@@ -22,11 +22,11 @@ Developed by **Mohamed BOURI**.
 ```
 
 net.mbeffects.adhan
-├── AdhanApp.java          # Main Application Entry Point (UiApplication)
+├── AdhanApp.java           # Main Application Entry Point (UiApplication)
 ├── AdhanMainScreen.java    # Primary User Interface & Custom RTL Layout
-├── PrayerCalculator.java  # Mathematical & Astronomical Calculation Engine
-├── TimerService.java      # Background Daemon Thread for updating UI & alerts
-└── AdhanPlayer.java       # Audio Engine for playing adhan.mp3
+├── PrayerCalculator.java   # Mathematical & Astronomical Calculation Engine
+├── TimerService.java       # Background Daemon Thread for updating UI & alerts
+└── AdhanPlayer.java        # Audio Engine for playing adhan.mp3
 
 ```
 
@@ -69,10 +69,10 @@ private static final double ISHA_ANGLE = 17.0; // Angle below horizon for Isha
 
 Common conventions:
 
-* **MWL (Muslim World League):** Fajr = 18°, Isha = 17°
-* **ISNA (North America):** Fajr = 15°, Isha = 15°
-* **Egyptian General Authority:** Fajr = 19.5°, Isha = 17.5°
-* **Umm al-Qura (Makkah):** Fajr = 18.5°, Isha = 90 min after Maghrib
+* **MWL (Muslim World League):** Fajr    =  18°, Isha   = 17°
+* **ISNA (North America):** Fajr         =  15°, Isha   = 15°
+* **Egyptian General Authority:** Fajr   =  19.5°, Isha = 17.5°
+* **Umm al-Qura (Makkah):** Fajr         =  18.5°, Isha = 90 min after Maghrib
 
 ---
 
