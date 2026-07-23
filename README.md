@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🕌 BlackBerry OS Adhan Application
 
 An open-source, lightweight Islamic Prayer Times (Adhan) application built natively for legacy **BlackBerry OS** devices (BlackBerry OS 5.0 / 6.0 / 7.0).
