@@ -1,4 +1,3 @@
-
 # 🕌 BlackBerry OS Adhan Application
 
 An open-source, lightweight Islamic Prayer Times (Adhan) application built natively for legacy **BlackBerry OS** devices (BlackBerry OS 5.0 / 6.0 / 7.0).
@@ -23,11 +22,11 @@ Developed by **Mohamed BOURI**.
 ```
 
 net.mbeffects.adhan
-├── AdhanApp.java           # Main Application Entry Point (UiApplication)
+├── AdhanApp.java          # Main Application Entry Point (UiApplication)
 ├── AdhanMainScreen.java    # Primary User Interface & Custom RTL Layout
-├── PrayerCalculator.java   # Mathematical & Astronomical Calculation Engine
-├── TimerService.java       # Background Daemon Thread for updating UI & alerts
-└── AdhanPlayer.java        # Audio Engine for playing adhan.mp3
+├── PrayerCalculator.java  # Mathematical & Astronomical Calculation Engine
+├── TimerService.java      # Background Daemon Thread for updating UI & alerts
+└── AdhanPlayer.java       # Audio Engine for playing adhan.mp3
 
 ```
 
@@ -104,7 +103,7 @@ $$\cos(H) = \frac{-\sin(\alpha) - \sin(\delta) \cdot \sin(\phi)}{\cos(\delta) \c
 
 4. **Asr Calculation**: Uses the standard Shafi'i / Maliki / Hanbali shadow length calculation:
 
-$$\text{Asr Altitude} = \operatorname{arccot}(1 + \tan(|\phi - \delta|))$$
+$$\text{Asr Altitude} = \text{arccot}(1 + \tan(|\phi - \delta|))$$
 
 ---
 
@@ -120,7 +119,7 @@ $$\text{Asr Altitude} = \operatorname{arccot}(1 + \tan(|\phi - \delta|))$$
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/Mohamed-bouri/Adhan.git](https://github.com/Mohamed-bouri/Adhan.git)
+git clone [https://github.com/Mohamed-bouri/adhan.git](https://github.com/Mohamed-bouri/adhan.git)
 
 ```
 
