@@ -120,7 +120,7 @@ $$\text{Asr Altitude} = \operatorname{arccot}(1 + \tan(|\phi - \delta|))$$
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/Mohamed-bouri/blackberry-adhan-app.git](https://github.com/Mohamed-bouri/blackberry-adhan-app.git)
+git clone [https://github.com/Mohamed-bouri/Adhan.git](https://github.com/Mohamed-bouri/Adhan.git)
 
 ```
 
