@@ -1,0 +1,37 @@
+RIM-COD-SHA1-4: 2d 50 a3 52 f5 a1 d8 de bd 80 0f e2 6e 58 b7 fd 76 c8 20 6a
+RIM-COD-SHA1-3: 03 91 d2 f8 6e 1c 27 1d 5d 25 75 f1 11 1a 31 6c 9e 87 82 15
+RIM-COD-SHA1-2: f4 97 ea 13 7e 22 7b 65 48 ef c3 38 17 6e 52 c8 b7 98 b0 f3
+RIM-COD-SHA1-1: 1d 8c a8 99 b8 e4 98 11 54 7f 48 64 2a 02 8c 3b ae 17 79 69
+RIM-MIDlet-Flags-1: 1
+MIDlet-Jar-Size: 773767
+MIDlet-Name: Adhan
+MIDlet-Jar-URL: Adhan.jar
+MicroEdition-Configuration: CLDC-1.1
+RIM-COD-URL-7: Adhan-7.cod
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-URL-6: Adhan-6.cod
+RIM-COD-URL-5: Adhan-5.cod
+RIM-COD-URL-4: Adhan-4.cod
+RIM-COD-URL-3: Adhan-3.cod
+RIM-COD-URL-2: Adhan-2.cod
+RIM-COD-URL-1: Adhan-1.cod
+RIM-COD-Size-7: 53224
+RIM-COD-Size-6: 49824
+RIM-COD-Size-5: 49824
+RIM-COD-Size-4: 49824
+RIM-COD-Size-3: 49824
+RIM-COD-Module-Name: Adhan
+RIM-COD-Size-2: 49824
+RIM-COD-Size-1: 49824
+RIM-COD-SHA1: fe d8 9c 7a 3a dd 04 57 a8 eb d5 1f eb 4f bf 63 cd 40 d3 ba
+RIM-COD-Size: 48884
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Research In Motion Limited
+MIDlet-1: Adhan,img/icon.png,net.mbeffects.adhan.AdhanApp
+RIM-COD-URL: Adhan.cod
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0
+RIM-COD-SHA1-7: 97 0b 14 98 b8 11 d1 6c a2 cd 48 83 eb d8 2b 84 0e 0a bb 5f
+RIM-COD-Creation-Time: 1775855469
+RIM-COD-SHA1-6: 7b 0e c5 83 f7 25 bc 39 b1 8d a9 89 dd b0 bb 8c b4 a7 8d 26
+RIM-COD-SHA1-5: 50 31 3d 38 7f 40 a3 b6 c4 53 8a 65 94 0f 13 28 22 13 c7 ee

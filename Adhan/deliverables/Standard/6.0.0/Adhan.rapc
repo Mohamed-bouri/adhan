@@ -1,0 +1,10 @@
+MIDlet-Name: Adhan
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Research In Motion Limited
+MIDlet-Jar-URL: Adhan.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Adhan,img/icon.png,net.mbeffects.adhan.AdhanApp
+RIM-MIDlet-Flags-1: 1
+

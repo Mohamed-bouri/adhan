@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Adhan">
+		<name >
+			Adhan
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			Research In Motion Limited
+		</vendor>
+		<copyright >
+			Copyright (c) 2026 Research In Motion Limited
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[6.0.0)">
+			<directory >
+				6.0.0
+			</directory>
+			<files >
+				Adhan.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
