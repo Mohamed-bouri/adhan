@@ -23,11 +23,11 @@ Developed by **Mohamed BOURI**.
 ```
 
 net.mbeffects.adhan
-├── AdhanApp.java          # Main Application Entry Point (UiApplication)
+├── AdhanApp.java           # Main Application Entry Point (UiApplication)
 ├── AdhanMainScreen.java    # Primary User Interface & Custom RTL Layout
-├── PrayerCalculator.java  # Mathematical & Astronomical Calculation Engine
-├── TimerService.java      # Background Daemon Thread for updating UI & alerts
-└── AdhanPlayer.java       # Audio Engine for playing adhan.mp3
+├── PrayerCalculator.java   # Mathematical & Astronomical Calculation Engine
+├── TimerService.java       # Background Daemon Thread for updating UI & alerts
+└── AdhanPlayer.java        # Audio Engine for playing adhan.mp3
 
 ```
 
