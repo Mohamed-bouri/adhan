@@ -1,4 +1,4 @@
-# 🕌 BlackBerry OS Adhan Application
+#  BlackBerry OS Adhan Application
 
 An open-source, lightweight Islamic Prayer Times (Adhan) application built natively for legacy **BlackBerry OS** devices (BlackBerry OS 5.0 / 6.0 / 7.0).
 
@@ -6,7 +6,7 @@ Developed by **Mohamed BOURI**.
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Native BlackBerry UI:** Built using native RIM BlackBerry UI primitives (`UiApplication`, `MainScreen`, custom `Manager`).
 * **RTL & Custom Alignment:** Clean Arabic UI support with right-to-left layout alignment for prayer names and times.
@@ -16,7 +16,7 @@ Developed by **Mohamed BOURI**.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 
 ```
@@ -32,7 +32,7 @@ net.mbeffects.adhan
 
 ---
 
-## 🧮 How to Modify Prayer Calculations (`PrayerCalculator.java`)
+##  How to Modify Prayer Calculations (`PrayerCalculator.java`)
 
 The core calculation logic is isolated inside `PrayerCalculator.java`. You can easily adapt this application to **any city or country** by modifying the constants at the top of the class.
 
@@ -107,7 +107,7 @@ $$\text{Asr Altitude} = \text{arccot}(1 + \tan(|\phi - \delta|))$$
 
 ---
 
-## 🛠️ How to Build & Run
+##  How to Build & Run
 
 ### Prerequisites
 
@@ -131,13 +131,13 @@ git clone [https://github.com/Mohamed-bouri/adhan.git](https://github.com/Mohame
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Mohamed BOURI**
 
@@ -145,7 +145,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
 
